@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+img{
+   width: 100px;
+    border-radius: 50%;
+}
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+.About {
+   background-image: linear-gradient(to top, #F44336, #fcb045, #833ab4);
+    padding-bottom: 5px;
+  text-align:center;
+  font-size:18px;
+ font-family: 'Cinzel', serif;
+}
+.Welcome {
+   font-family: 'Dancing Script', cursive;
+ background: linear-gradient(225deg, rgba(34,195,85,1) 0%, rgba(45,200,253,1) 100%);
+  font-size: 18px;
+    padding-bottom: 25px;
+}
+.links:hover{
+    font-size: 25px;
+    text-decoration: underline;
+    background-color: aqua;
+}
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.Menu{
+   list-style: none;
+    font-family: cursive;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
