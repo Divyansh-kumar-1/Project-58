@@ -20,9 +20,9 @@ body{
 }
 #Welcome {
    font-family: 'Dancing Script', cursive;
- background: linear-gradient(225deg, rgba(34,195,85,1) 0%, rgba(45,200,253,1) 100%);
-  font-size: 18px;
-    padding-bottom: 25px;
+   background: linear-gradient(225deg, rgba(34,195,85,1) 0%, rgba(45,200,253,1) 100%);
+   font-size: 18px;
+   padding-bottom: 25px;
 }
 .links:hover{
     font-size: 25px;
@@ -54,4 +54,11 @@ body{
 }
 html{
     scroll-behavior: smooth;
+}
+#My-Work{
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+}
+.Work{
+    font-size: 30px
 }
